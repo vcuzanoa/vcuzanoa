@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... remote
-- 🌱 I’m currently learning ... English
 - 👯 I’m looking to collaborate on ... Delphi
 - 😄 Pronouns: ... Billy
 
